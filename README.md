@@ -2,6 +2,8 @@
 
 ### Description
 A React based personal portfolio app using create-react-app.
+#### Deployed
+heroku: https://polar-beach-97093.herokuapp.com/
 
 # Installation
 * create-react-app cli
