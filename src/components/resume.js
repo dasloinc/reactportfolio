@@ -3,6 +3,8 @@ import { Grid, Cell } from 'react-mdl';
 import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
+import ImageFadeIn from "react-image-fade-in";
+
 
 
 class Resume extends Component {
@@ -12,20 +14,21 @@ class Resume extends Component {
         <Grid>
           <Cell col={4}>
             <div style={{textAlign: 'center'}}>
-              <img
+            <ImageFadeIn width={200} height={230} src={"/assets/img/daniel.jpg"} />
+              {/* <img
                 src="/assets/img/daniel.jpg"
                 alt="avatar"
                 style={{height: '200px'}}
-                 />
+                 /> */}
             </div>
 
             <h2 style={{paddingTop: '2em'}}>Daniel Slobodscoy</h2>
             <h4 style={{color: 'grey'}}>Full stack developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Full Stack Web Developer with a diploma from the University of Toronto in Full Stack Web Development complimented by a background in operational manager in the hospitality industry. Specializing in MERN ( MongoDB, Express, React, Node) applications. Other applicable skills include JavaScript, SQL, CSS and other various technologies, With experience in the hospitality industry, well adjusted to multi-tasking, thriving under high pressured situations and collaborating. Known as a logical problem-solver and passionate to learn the latest cutting edge technologies. My aim is to continue to develop my skill set, and help produce complex dynamic applications in different industries. </p>
+            <p>Full Stack Developer with a diploma from the University of Toronto in Full Stack Development complimented by a background in Hospitality & Logistics. Specializing in MERN ( MongoDB, Express, React, Node) applications. Other applicable skills include JavaScript, SQL, CSS and other various technologies, well adjusted to multi-tasking, thriving under high pressured situations and collaborating. Known as a logical problem-solver and passionate to learn the latest cutting edge technologies. My aim is to continue to develop my skill set, and to continue to grow in the tech industry.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
-            <p>Toronto</p>
+            <p>Toronto, ON</p>
             <h5>Phone</h5>
             <p>(647) 993-2205</p>
             <h5>Email</h5>

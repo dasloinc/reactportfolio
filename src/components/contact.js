@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
-
+import ImageFadeIn from "react-image-fade-in";
 
 class Contact extends Component {
   render() {
@@ -9,11 +9,12 @@ class Contact extends Component {
         <Grid className="contact-grid">
           <Cell col={6}>
             <h2>Daniel Slobodscoy</h2>
-            <img
+            <ImageFadeIn width={200} height={230} src={"/assets/img/daniel.jpg"} />
+            {/* <img
               src="/assets/img/daniel.jpg"
               alt="avatar"
               style={{height: '220px'}}
-               />
+               /> */}
              <p style={{ width: '70%', margin: 'auto', paddingTop: '3em'}}>If you like my work, let's collaborate! Contact me with any questions or inquieries</p>
 
           </Cell>
