@@ -34,7 +34,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>danielslobodscoy@gmail.com</p>
             <h5>Web</h5>
-            <p>https://myprodanielslobodscoy.herokuapp.com</p>
+            <p>www.daslo.me</p>
             <hr style={{borderTop: '4px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
@@ -84,7 +84,7 @@ class Resume extends Component {
                   />
                   <Skills
                     skill="NodeJS"
-                    progress={60}
+                    progress={80}
                     />
                     <Skills
                       skill="React"
