@@ -28,14 +28,14 @@ class Resume extends Component {
             <p>Full Stack Developer with a diploma from the University of Toronto in Full Stack Development complimented by a background in Hospitality & Logistics. Specializing in MERN ( MongoDB, Express, React, Node) applications. Other applicable skills include JavaScript, SQL, CSS and other various technologies, well adjusted to multi-tasking, thriving under high pressured situations and collaborating. Known as a logical problem-solver and passionate to learn the latest cutting edge technologies. My aim is to continue to develop my skill set, and to continue to grow in the tech industry.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
-            <p>Toronto, ON</p>
+            <p>Holon, IL</p>
             <h5>Phone</h5>
-            <p>(647) 993-2205</p>
+            <p> 058 550-2206</p>
             <h5>Email</h5>
             <p>danielslobodscoy@gmail.com</p>
             <h5>Web</h5>
             <p>https://myprodanielslobodscoy.herokuapp.com</p>
-            <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
+            <hr style={{borderTop: '4px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
             <h2>Education</h2>
@@ -59,17 +59,18 @@ class Resume extends Component {
               <h2>Experience</h2>
 
             <Experience
-              startYear={2015}
+              startYear={2014}
               endYear={2020}
               jobName="Aroma Espresso Bar"
-              jobDescription="I was introduced to the food & beverage industry in 2008. I started my relationship with Aroma Espresso Bar in 2015 and I was operating manager of the corporate store. A significant part of my job was to develop operations systems by working closely with future franchises - to prepare them for their new involvement. I was also responsible for inventory counts to allow for analysis of our inventory and to ensure we are utilizing our inventory effectively, and are purchasing the right equipment and products to maintain solid inventory data. I worked closely with the head office to set, implement and regulate policies, procedures, and systems."
+              jobDescription="I was introduced to the food & beverage industry in 2008. I started my relationship with Aroma Espresso Bar in 2014 and I was operating manager of the corporate stores. A significant part of my job was to develop operations systems by working closely with future franchises - to prepare them for their new involvement. I was also responsible for inventory counts to allow for analysis of our inventory and to ensure we are utilizing our inventory effectively, and are purchasing the right equipment & products to maintain solid inventory data. I worked closely with the head office to set, implement and regulate policies, procedures, and systems. 
+              My goal was to maintain a safe, healthy and positive work environment by establishing, following and enforcing high standards for staff, future franchises and customer service by complying with legal regulations and law codes. As an Operator/Manager I was responsible for managing staff levels, the work schedule, wages, hiring and training of all operations employees and coaching future franchises."
               />
-
+ 
               <Experience
                 startYear={2018}
                 endYear={2020}
                 jobName="Metropolitan Movers - Director"
-                jobDescription="I decided to join a growing company in the transportation field (logistics, shipments & deliveries). I operate the logistics and HR of the business full-time. I am Always looking to grow the franchise by getting in touch with future collaborations with clients and partners."
+                jobDescription="I joined the transportation field as a new project to develop industry. This industry is lacking the most significant thing in this world now a days and its technology. My part as a director was to recruitment, train and staff development to maximize productivity and revenue potential through development of the operational and sales teams. Successfully increased employee retention by creating a positive work environment in the company. The main part of the business development was to cultivate strong business relationships with partners & customers and to ensure that the corporation is prepared for internal audits through analysis/preparation of quality assurance and Inventory statistics."
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
@@ -87,7 +88,7 @@ class Resume extends Component {
                     />
                     <Skills
                       skill="React"
-                      progress={40}
+                      progress={70}
                       />
           </Cell>
         </Grid>
