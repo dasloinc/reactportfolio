@@ -70,7 +70,8 @@ class Resume extends Component {
                 startYear={2018}
                 endYear={2020}
                 jobName="Metropolitan Movers - Director"
-                jobDescription="I joined the transportation field as a new project to develop industry. This industry is lacking the most significant thing in this world now a days and its technology. My part as a director was to recruitment, train and staff development to maximize productivity and revenue potential through development of the operational and sales teams. Successfully increased employee retention by creating a positive work environment in the company. The main part of the business development was to cultivate strong business relationships with partners & customers and to ensure that the corporation is prepared for internal audits through analysis/preparation of quality assurance and Inventory statistics."
+                jobDescription="I joined the transportation field as a new project to bring and develop new ideas in the industry. This industry is lacking the most significant thing in this world now a days and its technology. My part as a director was to recruitment, train and staff development to maximize productivity and revenue potential through development of the operational and sales teams. Successfully increased employee retention by creating a positive work environment in the company. 
+                The main part of the business development was to implement new strategies to make the technological aspect of the company more customer friendly, to cultivate strong business relationships with partners & customers, to ensure that the corporation is prepared for internal audits through analysis/preparation of quality assurance and inventory statistics."
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
