@@ -9,13 +9,13 @@ class Contact extends Component {
         <Grid className="contact-grid">
           <Cell col={6}>
             <h2>Daniel Slobodscoy</h2>
-            <ImageFadeIn width={200} height={230} src={"/assets/img/daniel.jpg"} />
+            <ImageFadeIn width={230} height={250} src={"/assets/img/danielroundedsquare.png"} />
             {/* <img
               src="/assets/img/daniel.jpg"
               alt="avatar"
               style={{height: '220px'}}
                /> */}
-             <p style={{ width: '70%', margin: 'auto', paddingTop: '3em'}}>If you like my work, let's collaborate! Contact me with any questions or inquieries</p>
+             <p style={{ width: '70%', margin: 'auto', paddingTop: '3em'}}>Let's collaborate! Contact me with any questions or inquieries</p>
 
           </Cell>
           <Cell col={6}>
@@ -27,7 +27,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
-                    (647) 993-2205
+                    (+972) 85 550-2206
                   </ListItemContent>
                 </ListItem>
 

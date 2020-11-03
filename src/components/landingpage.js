@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import ImageFadeIn from "react-image-fade-in";
+//import Image from 'react-bootstrap/Image'
 
 class Landing extends Component {
   render() {
@@ -8,7 +9,7 @@ class Landing extends Component {
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
-          <ImageFadeIn width={200} height={230} src={"/assets/img/daniel.jpg"}/>
+          <ImageFadeIn width={200} height={230} src={"/assets/img/danielroundedsquare.png"}/>
             {/* <img
               src="/assets/img/daniel.jpg"
               alt="avatar"
