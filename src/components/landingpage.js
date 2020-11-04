@@ -9,7 +9,7 @@ class Landing extends Component {
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
-          <ImageFadeIn width={200} height={230} src={"/assets/img/danielroundedsquare.png"}/>
+          <ImageFadeIn width={200} height={200} src={"/assets/img/danielroundedsquare.png"}/>
             {/* <img
               src="/assets/img/daniel.jpg"
               alt="avatar"
