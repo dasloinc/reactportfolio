@@ -82,14 +82,16 @@
 .banner-text {
   background-color: black;
   opacity: .6;
-  width: 75%;
+  width: 70%;
   margin: auto;
+  padding-bottom: 0px;
   border-radius: 10px;
 }
 
 .banner-text h1 {
   font-size: 66px;
   font-weight: bold;
+  font-family: 'Itim';
   color: white;
 }
 
@@ -102,6 +104,7 @@
 .banner-text p {
   color: white;
   font-size: 20px;
+  font-family: 'Piazzolla';
   padding: 1em;
 }
 

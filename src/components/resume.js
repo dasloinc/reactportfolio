@@ -4,6 +4,7 @@ import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
 import ImageFadeIn from "react-image-fade-in";
+// import { FormText } from 'react-bootstrap';
 
 
 
@@ -25,7 +26,7 @@ class Resume extends Component {
             <h2 style={{paddingTop: '0em'}}>Daniel Slobodscoy</h2>
             <h4 style={{color: 'grey'}}>Full stack developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Full Stack Developer with a certificate from the University of Toronto in Full Stack Development complimented by a background in Hospitality & Logistics. Specializing in MERN ( MongoDB, Express, React, Node) applications. Other applicable skills include JavaScript, SQL, CSS and other various technologies, well adjusted to multi-tasking, thriving under high pressured situations and collaborating. Known as a logical problem-solver and passionate to learn the latest cutting edge technologies. My aim is to continue to develop my skill set, and to continue to grow in the tech industry.</p>
+            <p>Full stack developer with a certificate from the University of Toronto in Full Stack Development complimented by a background in Hospitality & Logistics. Specializing in MERN ( MongoDB, Express, React, Node) applications. Other applicable skills include JavaScript, SQL, CSS and other various technologies, well adjusted to multi-tasking, thriving under high pressured situations and collaborating. Known as a logical problem-solver and passionate to learn the latest cutting edge technologies. My aim is to continue to develop my skill set, and to continue to grow in the tech industry.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>Holon, IL</p>
