@@ -3,15 +3,17 @@
 ### Description
 A React based personal portfolio app using create-react-app.
 #### Deployed
-Through heroku: daslo.me
+Through heroku: ![daslo.me] (http://www.daslo.me/)
 
-# Installation
+# Installation & Starting the App
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
 * create-react-app cli
-* The packages need to be install are: npm install 
-
-# Start App
-Clone repo, install, cd into folder and run:
-
-* npm install
+* The packages need to be install are: 
+- npm install 
 * npm start
+
 
