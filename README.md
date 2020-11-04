@@ -3,7 +3,7 @@
 ### Description
 A React based personal portfolio app using create-react-app.
 #### Deployed
-heroku: https://myprodanielslobodscoy.herokuapp.com
+Through heroku: daslo.me
 
 # Installation
 * create-react-app cli
