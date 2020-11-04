@@ -1,17 +1,25 @@
 # react-portfolio
 
-### Description
+## Description
 A React based personal portfolio app using create-react-app.
 #### Deployed
-heroku: https://myprodanielslobodscoy.herokuapp.com
+Through heroku: [daslo.me](http://www.daslo.me/)
 
 # Installation
-* create-react-app cli
-* The packages need to be install are: npm install 
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-# Start App
-Clone repo, install, cd into folder and run:
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+create-react-app cli.
 
+The packages need to be install are: 
 * npm install
+* react-image-fade-in
+* react-mdl
+
+#### Run the App
 * npm start
 
+
+ 
