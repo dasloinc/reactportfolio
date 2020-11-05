@@ -19,21 +19,25 @@ class Contact extends Component {
 
           </Cell>
           <Cell col={6}>
-            <h2>Contact Me</h2>
+            <h2 style={{textAlign: "left"}}>Contact Me</h2>
             <hr/>
 
             <div className="contact-list">
               <List>
                 <ListItem>
                   <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
+                  <a href="tel:+972585502206" rel="noopener noreferrer" target="_blank">
                     <i className="fa fa-phone-square" aria-hidden="true"/>
-                    (+972) 85 550-2206
+                  </a>
+                  (+972) 85 550-2206
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
+                  <a href="mailto:danielslobodscoy@gmail.com?Subject=Hello%20world!" rel="noopener noreferrer" target="_blank">
                     <i className="fa fa-envelope" aria-hidden="true"/>
+                  </a>
                     danielslobodscoy@gmail.com
                   </ListItemContent>
                 </ListItem>
