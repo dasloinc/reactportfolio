@@ -65,7 +65,7 @@ class Resume extends Component {
               jobName="Aroma Espresso Bar"
               jobTitle="Partner & Distric Manager"
               jobDescription="I was introduced to the food & beverage industry in 2008. I started my relationship with Aroma Espresso Bar in 2014 and I was operating manager of the corporate stores. A significant part of my job was to develop operations systems by working closely with future franchises - to prepare them for their new involvement. I was also responsible for inventory counts to allow for analysis of our inventory and to ensure we are utilizing our inventory effectively, and are purchasing the right equipment & products to maintain solid inventory data. I worked closely with the head office to set, implement and regulate policies, procedures, and systems. 
-              My goal was to maintain a safe, healthy and positive work environment by establishing, following and enforcing high standards for staff, future franchises and customer service by complying with legal regulations and law codes. As an Operator/Manager I was responsible for managing staff levels, the work schedule, wages, hiring and training of all operations employees and coaching future franchises."
+              My goal was to maintain a safe, healthy and positive work environment by establishing, following and enforcing high standards for staff, future franchises and customer service by complying with legal regulations and law codes. As an operator I was responsible for managing staff levels, the work schedule, wages, hiring and training of all operations employees and coaching future franchises."
               />
  
               <Experience
